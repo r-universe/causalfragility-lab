@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "MultiSpline"]
+	path = MultiSpline
+	url = https://github.com/causalfragility-lab/multispline
 [submodule "decisionpaths"]
 	path = decisionpaths
 	url = https://github.com/causalfragility-lab/decisionpaths

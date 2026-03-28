@@ -14,3 +14,6 @@
 [submodule "decisionpaths"]
 	path = decisionpaths
 	url = https://github.com/causalfragility-lab/decisionpaths
+[submodule "mlmoderator"]
+	path = mlmoderator
+	url = https://github.com/causalfragility-lab/mlmoderator

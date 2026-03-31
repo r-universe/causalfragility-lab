@@ -11,9 +11,15 @@
 [submodule "achieveGap"]
 	path = achieveGap
 	url = https://github.com/causalfragility-lab/achievegap
+[submodule "confoundvis"]
+	path = confoundvis
+	url = https://github.com/causalfragility-lab/confoundvis
 [submodule "decisionpaths"]
 	path = decisionpaths
 	url = https://github.com/causalfragility-lab/decisionpaths
+[submodule "metaLong"]
+	path = metaLong
+	url = https://github.com/causalfragility-lab/metalong
 [submodule "mlmoderator"]
 	path = mlmoderator
 	url = https://github.com/causalfragility-lab/mlmoderator

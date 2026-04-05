@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "AIBias"]
+	path = AIBias
+	url = https://github.com/causalfragility-lab/aibias
 [submodule "CausalSpline"]
 	path = CausalSpline
 	url = https://github.com/causalfragility-lab/causalspline

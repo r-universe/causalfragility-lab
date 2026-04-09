@@ -5,6 +5,9 @@
 [submodule "AIBias"]
 	path = AIBias
 	url = https://github.com/causalfragility-lab/aibias
+[submodule "CEDMr"]
+	path = CEDMr
+	url = https://github.com/causalfragility-lab/cedmr
 [submodule "CausalSpline"]
 	path = CausalSpline
 	url = https://github.com/causalfragility-lab/causalspline
@@ -20,6 +23,9 @@
 [submodule "decisionpaths"]
 	path = decisionpaths
 	url = https://github.com/causalfragility-lab/decisionpaths
+[submodule "drmeta"]
+	path = drmeta
+	url = https://github.com/causalfragility-lab/drmeta
 [submodule "metaLong"]
 	path = metaLong
 	url = https://github.com/causalfragility-lab/metalong

@@ -11,6 +11,9 @@
 [submodule "CausalSpline"]
 	path = CausalSpline
 	url = https://github.com/causalfragility-lab/causalspline
+[submodule "MLCausal"]
+	path = MLCausal
+	url = https://github.com/causalfragility-lab/mlcausal
 [submodule "MultiSpline"]
 	path = MultiSpline
 	url = https://github.com/causalfragility-lab/multispline

@@ -11,12 +11,18 @@
 [submodule "CausalSpline"]
 	path = CausalSpline
 	url = https://github.com/causalfragility-lab/causalspline
+[submodule "DecisionDrift"]
+	path = DecisionDrift
+	url = https://github.com/causalfragility-lab/decisiondrift
 [submodule "MLCausal"]
 	path = MLCausal
 	url = https://github.com/causalfragility-lab/mlcausal
 [submodule "MultiSpline"]
 	path = MultiSpline
 	url = https://github.com/causalfragility-lab/multispline
+[submodule "RobustMediate"]
+	path = RobustMediate
+	url = https://github.com/causalfragility-lab/robustmediate
 [submodule "achieveGap"]
 	path = achieveGap
 	url = https://github.com/causalfragility-lab/achievegap
@@ -29,9 +35,15 @@
 [submodule "drmeta"]
 	path = drmeta
 	url = https://github.com/causalfragility-lab/drmeta
+[submodule "hlmLab"]
+	path = hlmLab
+	url = https://github.com/causalfragility-lab/hlmlab
 [submodule "metaLong"]
 	path = metaLong
 	url = https://github.com/causalfragility-lab/metalong
 [submodule "mlmoderator"]
 	path = mlmoderator
 	url = https://github.com/causalfragility-lab/mlmoderator
+[submodule "statAPA"]
+	path = statAPA
+	url = https://github.com/causalfragility-lab/statapa

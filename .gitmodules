@@ -26,6 +26,9 @@
 [submodule "achieveGap"]
 	path = achieveGap
 	url = https://github.com/causalfragility-lab/achievegap
+[submodule "aiDIF"]
+	path = aiDIF
+	url = https://github.com/causalfragility-lab/aidif
 [submodule "confoundvis"]
 	path = confoundvis
 	url = https://github.com/causalfragility-lab/confoundvis
@@ -44,6 +47,9 @@
 [submodule "mlmoderator"]
 	path = mlmoderator
 	url = https://github.com/causalfragility-lab/mlmoderator
+[submodule "socialdrift"]
+	path = socialdrift
+	url = https://github.com/causalfragility-lab/socialdrift
 [submodule "statAPA"]
 	path = statAPA
 	url = https://github.com/causalfragility-lab/statapa

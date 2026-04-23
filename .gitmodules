@@ -14,12 +14,18 @@
 [submodule "DecisionDrift"]
 	path = DecisionDrift
 	url = https://github.com/causalfragility-lab/decisiondrift
+[submodule "EpiNova"]
+	path = EpiNova
+	url = https://github.com/causalfragility-lab/epinova
 [submodule "MLCausal"]
 	path = MLCausal
 	url = https://github.com/causalfragility-lab/mlcausal
 [submodule "MultiSpline"]
 	path = MultiSpline
 	url = https://github.com/causalfragility-lab/multispline
+[submodule "RobustFlow"]
+	path = RobustFlow
+	url = https://github.com/causalfragility-lab/robustflow
 [submodule "RobustMediate"]
 	path = RobustMediate
 	url = https://github.com/causalfragility-lab/robustmediate

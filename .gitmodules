@@ -23,6 +23,9 @@
 [submodule "MultiSpline"]
 	path = MultiSpline
 	url = https://github.com/causalfragility-lab/multispline
+[submodule "NonlinearDiD"]
+	path = NonlinearDiD
+	url = https://github.com/causalfragility-lab/nonlineardid
 [submodule "RobustFlow"]
 	path = RobustFlow
 	url = https://github.com/causalfragility-lab/robustflow
@@ -53,6 +56,9 @@
 [submodule "mlmoderator"]
 	path = mlmoderator
 	url = https://github.com/causalfragility-lab/mlmoderator
+[submodule "rdstagger"]
+	path = rdstagger
+	url = https://github.com/causalfragility-lab/rdstagger
 [submodule "socialdrift"]
 	path = socialdrift
 	url = https://github.com/causalfragility-lab/socialdrift

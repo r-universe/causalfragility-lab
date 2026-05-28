@@ -5,6 +5,9 @@
 [submodule "AIBias"]
 	path = AIBias
 	url = https://github.com/causalfragility-lab/aibias
+[submodule "AIGovernance"]
+	path = AIGovernance
+	url = https://github.com/causalfragility-lab/aigovernance
 [submodule "CEDMr"]
 	path = CEDMr
 	url = https://github.com/causalfragility-lab/cedmr

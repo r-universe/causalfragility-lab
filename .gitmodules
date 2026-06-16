@@ -41,6 +41,9 @@
 [submodule "aiDIF"]
 	path = aiDIF
 	url = https://github.com/causalfragility-lab/aidif
+[submodule "causalfrag"]
+	path = causalfrag
+	url = https://github.com/causalfragility-lab/causalfrag
 [submodule "confoundvis"]
 	path = confoundvis
 	url = https://github.com/causalfragility-lab/confoundvis
